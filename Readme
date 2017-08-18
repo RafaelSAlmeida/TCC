@@ -1,0 +1,3 @@
+AspectNFR
+
+Ferramenta desenvolvida para analisar descrições textuais (Casos de Uso), sistemas e subsistemas, de forma a detectar aspectos a partir de atributos de Requisitos Não-Funcionais (RNF). O processo de cadastro de sistemas, subsistemas, casos de uso, cenários, fluxos, RNF, atributos de RNF são realizados de forma manual pelo analista. Como saída a ferramenta gera de forma automática matrizes de adjacência do relacionamento entre passos de caso de uso e atributos de RNF, espalhamento de atributos entre sistemas, subsistemas e casos de uso, cenários com aspectos relacionados, e os tipos de RNF identificados em casos de uso
